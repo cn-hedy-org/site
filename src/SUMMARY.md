@@ -2,6 +2,7 @@
 
 - [有关](./README.md)
     + [日常编撰](./USAGE.md)
+    + ...
 
 # 社区
 
@@ -18,4 +19,4 @@
 - [活动](event/README.md)
 - [合作](project/README.md)
     + ["成都校培"🌝](project/cd120teacher.md)
-    +
+    + ...
