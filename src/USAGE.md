@@ -129,7 +129,7 @@
 
 ----
 
-![zshot](images/zshot 2024-07-15 20.40.00 (convert.io).webp)
+![zshot](images/zshot240715_convert.io.webp.webp)
 
 ## logging
 
