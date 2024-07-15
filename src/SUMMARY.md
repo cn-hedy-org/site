@@ -9,7 +9,7 @@
 
 - [目标](plan/README.md)
 - [人物](member/README.md)
-    + [大妈](members/dama.md)
+    + [大妈](member/dama.md)
 
 # 行动🌚🌘🌗🌖🌝
 
