@@ -126,3 +126,8 @@
        + 写成 Markdown 格式就是 `![makeplayus](../images/cnhedy-e-1_convert.io.webp)`
        + 其中 `../` 的意思就是回到上层目录,也就是说, 要从 `dama.md` 这个文件所在目录为起点,相对目标图片要走过什么样的路径来描述, 以便编译器知道从哪儿获得对应文件.
 
+
+## logging
+
+
+- 240715 DAMA init.
