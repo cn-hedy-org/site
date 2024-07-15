@@ -12,5 +12,5 @@
 
 ---
 
-![logo](images/cnhedy-e-1_convert.io.webp)
+![logo](images/cn_hedy_logo_convert.io.webp)
 
