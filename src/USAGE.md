@@ -40,11 +40,11 @@
 
 ![logo](images/cnhedy-e-1_convert.io.webp)
 
-首先在 [SUMMARY.md](https://github.com/Makeplayism/us/blob/main/src/SUMMARY.md) 中合理追加一个索引链接:
+首先在 [SUMMARY.md](https://github.com/cn-hedy-org/us/blob/main/src/SUMMARY.md) 中合理追加一个索引链接:
 
 - 注意使用标准的 [Markdown 语法](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - 指向正确的目录:
-    - `./` 表示当前目录, 也就是说, 将创建和 [SUMMARY.md](https://github.com/Makeplayism/us/blob/main/src/SUMMARY.md) 在同一级目录中的文件
+    - `./` 表示当前目录, 也就是说, 将创建和 [SUMMARY.md](https://github.com/cn-hedy-org/us/blob/main/src/SUMMARY.md) 在同一级目录中的文件
     - `player/dama.md` 则指向 `player` 目录中的 `dama.md` 文件
 - 以及全部小写英文字母组成的文件名:
     - 可以包含数字
@@ -54,7 +54,7 @@
 
 然后, 在左侧导航中点击对应目录, 再点击 `+` 创建文件;
 
-**注意:** 填写正确的文件名, 必须和  [SUMMARY.md](https://github.com/Makeplayism/us/blob/main/src/SUMMARY.md) 中指向的一致;
+**注意:** 填写正确的文件名, 必须和  [SUMMARY.md](https://github.com/cn-hedy-org/us/blob/main/src/SUMMARY.md) 中指向的一致;
 
 
 
@@ -75,7 +75,7 @@
 
 
 
-访问: [www.makeplay.us](https://www.makeplay.us/logs/index.html)
+访问: [cn-hedy-org.github.io](https://cn-hedy-org.github.io/site/)
 
 就可以看到最新内容了;
 
