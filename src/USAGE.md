@@ -38,7 +38,11 @@
 
 从 Code 进入文件目录后, 点击编辑小图标:
 
-![logo](images/cnhedy-e-1_convert.io.webp)
+![logo](images/cn_hedy_org_gh_dev.jpg)
+
+> 注意, 强烈推荐使用 .dev 的在线 IDE 进行后续各种编辑
+
+参考: [github.dev 基于 web 的编辑器](https://docs.github.com/zh/codespaces/the-githubdev-web-based-editor)
 
 首先在 [SUMMARY.md](https://github.com/cn-hedy-org/us/blob/main/src/SUMMARY.md) 中合理追加一个索引链接:
 
