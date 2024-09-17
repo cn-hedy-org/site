@@ -18,3 +18,5 @@
 - [活动](event/README.md)
 - [合作](project/README.md)
     + ["成都校培"🌝](project/cd120teacher.md)
+- [文宣](stuff/tweets/README.md)
+    + [对家长](stuff/tweets/240729.md)
