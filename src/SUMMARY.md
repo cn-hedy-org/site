@@ -20,4 +20,6 @@
     + ["成都校培"🌝](project/cd120teacher.md)
 - [文宣](stuff/tweets/README.md)
     + [对家长](stuff/tweets/240729.md)
-    + [前宣-推文三](stuff/tweets/240819.md)
+    + [前宣-对家长-推文三](stuff/tweets/240819.md)
+    + [前宣-对家长-推文四](stuff/tweets/240915.md)
+    + [前宣-对家长-推文五](stuff/tweets/240917.md)

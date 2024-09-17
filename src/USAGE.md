@@ -86,12 +86,18 @@
 
 ### PS:
 
-如果访问时出现以下错误:
+1. 如果访问时出现以下错误:
 
 ![404](images/cnhedy-e-7.webp)
 
 
 一般都是服务端在进行部署更新, 等候一会儿, 就可以了.
+
+2. 如果点击`Commit changes` 按钮后，弹出：
+
+没有要提交的更改
+
+可能是因为web端的原因，需要启用本地 github desktop+VScode 的组合进行自由编辑.
 
 
 ## 修改页面
@@ -112,13 +118,13 @@
 1. 将要使用的图片, 先转换为节省空间的 webp 格式:
     + 推荐使用类似这种在线服务:
     + [PNG轉WEBP轉換器。在线自由 — Convertio](https://convertio.co/zh/image-converter/)
-1. 然后, 合理重新命名:
+2. 然后, 合理重新命名:
     + 全部小写英文字母组成
     + 可以包含数字
     + 文件后缀名也为小写字母:
         + 比如: `.PNG` 应该修改为 `.png`
-1. 上传到 [site/src/images at main · cn-hedy-org/site](https://github.com/cn-hedy-org/site/tree/main/src/images), 这个固定的目录中
-1. 在对应文件中使用相对路径来引用:
+3. 上传到 [site/src/images at main · cn-hedy-org/site](https://github.com/cn-hedy-org/site/tree/main/src/images), 这个固定的目录中
+4. 在对应文件中使用相对路径来引用:
    + 如果, 想使用的文件是: [site/src/images/cnhedy-e-1_convert.io.webp](https://github.com/cn-hedy-org/site/raw/main/src/images/cnhedy-e-1_convert.io.webp)
    + 引用的文件是:
        + [src/README.md](https://github.com/cn-hedy-org/site/blob/main/src/README.md)
